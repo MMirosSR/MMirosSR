@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,cs,sqlite,figma,xd,ai,ps"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react,cs,sqlite,figma,xd,ai,ps"/>
 </a>
 </p>
 
