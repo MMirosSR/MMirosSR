@@ -9,10 +9,3 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,react,cs,sqlite,figma,xd,ai,ps"/>
 </a>
 </p>
-
-
-
-<!---
-MMirosSR/MMirosSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
