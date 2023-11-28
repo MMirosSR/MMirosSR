@@ -12,7 +12,9 @@
 </p>
 
 ### Here are my current projects on GitHub 🚀:
-[Projects](#projects) | [Notion Portfolio](#notion-portfolio) | [Contact](#contact)
+- [Projects](#projects)
+- [Notion Portfolio](#notion-portfolio)
+- [Contact](#contact)
 
 ### My Notion Portfolio 🚀:
 Check out my detailed portfolio on Notion: [Notion Portfolio](https://mmiroslavasr.notion.site/mmiroslavasr/Hi-I-m-Miroslava-aa6009bdfd5e41698fcbf66bda2e01c1)
