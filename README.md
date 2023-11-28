@@ -12,7 +12,6 @@
 </p>
 
 ### Here are my current projects on GitHub 🚀:
-
 - [Projects](#projects)
 - [Notion Portfolio](#notion-portfolio)
 - [Contact](#contact)
