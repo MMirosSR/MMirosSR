@@ -21,6 +21,6 @@ Check out my detailed portfolio on Notion: [Notion Portfolio](https://mmiroslava
 
 ### Portfolio Menu 🚀
 
-| **Projects** | **Notion Portfolio** | **Contact** |
-|--------------|----------------------|--------------|
-| [Projects](#projects) | [Notion Portfolio](#notion-portfolio) | [Contact](#contact) |
+| **Projects** | **Notion Portfolio** 
+|--------------|----------------------
+| [Projects](#projects) | [Notion Portfolio](#notion-portfolio)
