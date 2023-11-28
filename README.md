@@ -12,7 +12,7 @@
 </p>
 
 ### Here are my current projects on GitHub 🚀:
-- [Projects](https://github.com/MMirosSR/Expanding-Cards)
+- [Expanding Cards - Web page animation](https://github.com/MMirosSR/Expanding-Cards)
 - [Notion Portfolio](#notion-portfolio)
 - [Contact](#contact)
 
