@@ -18,6 +18,6 @@
 - [Web page design effect - Glassmorphism](https://github.com/MMirosSR/Glassmorphism)
 - [Extra - Social media logo designs](https://github.com/MMirosSR/Movie-Booking)
 
-### My Notion Portfolio 🚀:
-Check out my detailed portfolio on Notion: [Notion Portfolio](https://mmiroslavasr.notion.site/mmiroslavasr/Hi-I-m-Miroslava-aa6009bdfd5e41698fcbf66bda2e01c1)
+<!-- ### My Notion Portfolio 🚀:
+Check out my detailed portfolio on Notion: [Notion Portfolio](https://mmiroslavasr.notion.site/mmiroslavasr/Hi-I-m-Miroslava-aa6009bdfd5e41698fcbf66bda2e01c1) -->
 
