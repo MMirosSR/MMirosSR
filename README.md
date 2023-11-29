@@ -1,7 +1,7 @@
 ### About Me
 - 👋 Hi, I’m Miros.
 - 👩🏻‍💻 Software Engineer.
-- ✉ How to reach me mmsr98@outlook.com or https://www.linkedin.com/in/mmsr/
+- ✉ How to reach me by [Email](mmsr98@outlook.com) or [Linkedin](https://www.linkedin.com/in/mmsr/)
 - 🌱 Experience working as a Tester: Led end-to-end testing for web applications, conducting black-box, white-box, and integration testing. Created comprehensive test plans and executed test cycles, resulting in a 95% reduction in defects. Collaborated with cross-functional teams to review requirements, identify potential risks, and define testing strategies. Contributed to Agile process optimizations through daily participation, enabling faster release cycles
 
 <h3 align="left">Languages and Tools:</h3>
