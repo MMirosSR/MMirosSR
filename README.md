@@ -12,9 +12,11 @@
 </p>
 
 ### Here are my current projects on GitHub 🚀:
-- [Expanding Cards - Web page animation](https://github.com/MMirosSR/Expanding-Cards)
-- [Notion Portfolio](#notion-portfolio)
-- [Contact](#contact)
+- [Full web page design](https://github.com/MMirosSR/Web-Page-Design)
+- [Web page - Movie booking](https://github.com/MMirosSR/Movie-Booking)
+- [Web page animation - Expanding Cards](https://github.com/MMirosSR/Expanding-Cards)
+- [Web page design effect - Glassmorphism](https://github.com/MMirosSR/Glassmorphism)
+- [Extra - Social media logo designs](https://github.com/MMirosSR/Movie-Booking)
 
 ### My Notion Portfolio 🚀:
 Check out my detailed portfolio on Notion: [Notion Portfolio](https://mmiroslavasr.notion.site/mmiroslavasr/Hi-I-m-Miroslava-aa6009bdfd5e41698fcbf66bda2e01c1)
